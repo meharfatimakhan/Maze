@@ -2,8 +2,10 @@
 This code finds the path for a given object from the start state to the goal using Stack.
 
 
-Suppose a robot has to find a path from a starting point to a goal point. Zero means it’s a forbidden cell and 1 means it's allowed to go into that cell. This code finds the correct path through allowed cells to reach the goal. For example, in the above if (0,2) is the start state and (9,3) is the goal state then one possible path is given by the blue highlighted cells.  
+![alt text](https://github.com/meharfatimakhan/Maze/blob/master/Maze.PNG?raw=true)
 
+
+Suppose a robot has to find a path from a starting point to a goal point. Zero means it’s a forbidden cell and 1 means it's allowed to go into that cell. This code finds the correct path through allowed cells to reach the goal. For example, in the above if (0,2) is the start state and (9,3) is the goal state then one possible path is given by the blue highlighted cells.  
 
 
 ### FORMAT OF INPUT FILE
